@@ -1,5 +1,6 @@
 require 'logger'
 require 'clockwork'
+require 'active_support/all'
 require 'pushpop/version'
 require 'pushpop/job'
 require 'pushpop/step'
